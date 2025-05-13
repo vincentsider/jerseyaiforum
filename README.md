@@ -1,2 +1,2 @@
 # jerseyaiforum
-This is the public Jersey AI Forum Repo
+This is the public Jersey AI Forum Repo.
