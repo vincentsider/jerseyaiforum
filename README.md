@@ -81,3 +81,5 @@ npx create-sparc init --force
 
 - customized modes for more control and automation
 
+NB: If you are using vscode to develop locally, you should install node.js. https://nodejs.org/en
+
